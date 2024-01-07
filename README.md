@@ -182,3 +182,39 @@
 
 - **lien:**
     - [lien](07_géométrie)
+
+## 8. **Optimisation:**
+
+- **Description:**
+    >**``L'optimisation``** est le domaine des mathématiques  qui vise à trouver les meilleures solutions possibles pour des problèmes définis par des critères spécifiques. Il s'agit généralement de maximiser ou minimiser une fonction, appelée fonction objectif, tout en respectant certaines contraintes. L'optimisation trouve des applications dans divers domaines tels que l'ingénierie, la finance, la planification, l'apprentissage machine, et bien d'autres. En optimisation, on utilise des techniques variées, allant des méthodes analytiques aux algorithmes numériques, pour résoudre des problèmes et prendre des décisions éclairées.
+
+- **sous domaines:**
+
+    1. **``Optimisation discrète :``** 
+        L'optimisation discrète se concentre sur la résolution de problèmes où les solutions sont des valeurs discrètes, souvent des choix binaires ou entiers. Elle est largement utilisée pour des décisions impliquant des options distinctes, comme la planification de projets avec des jalons fixes ou l'affectation de ressources limitées.
+
+    2. **``Optimisation continue :``**
+        L'optimisation continue vise à trouver les solutions optimales dans un espace de variables continues. Elle intervient fréquemment dans des domaines tels que l'ingénierie, l'économie et la physique, où les décisions sont des paramètres continus. Les algorithmes numériques itératifs sont souvent nécessaires pour obtenir des résultats précis.
+
+    3. **``Optimisation numérique :``**
+        L'optimisation numérique implique le développement et l'application d'algorithmes numériques pour résoudre des problèmes d'optimisation. Ces méthodes sont cruciales pour traiter des fonctions objectif complexes dans des contextes réels, et elles sont utilisées dans des applications aussi variées que la conception de produits, la finance et l'apprentissage machine.
+
+    4. **``Optimisation convexe :``**
+        L'optimisation convexe se focalise sur des problèmes où la fonction objectif et les contraintes sont convexes. Cette propriété particulière facilite l'utilisation d'algorithmes efficaces et garantit souvent la convergence vers une solution globale. Elle est couramment employée dans des applications telles que la planification de réseaux et l'analyse des données.
+
+    5. **``Optimisation stochastique :``**
+        L'optimisation stochastique aborde des problèmes avec des éléments incertains ou probabilistes. Elle prend en compte l'incertitude dans les modèles d'optimisation, jouant un rôle essentiel dans des domaines tels que la gestion de portefeuille financier et la logistique face à des variations imprévisibles.
+    
+    6. **``Optimisation linéaire :``**
+        L'optimisation linéaire implique la maximisation ou la minimisation d'une fonction linéaire sous des contraintes linéaires. Elle est largement utilisée dans la gestion des opérations, la planification de la production et la logistique pour des décisions impliquant des relations linéaires entre variables.
+    
+
+    7. **``Optimisation combinatoire :``**
+        L'optimisation combinatoire résout des problèmes où la meilleure solution doit être trouvée parmi un ensemble discret. Elle intervient dans des domaines tels que la planification d'itinéraires, l'affectation de ressources et la conception de réseaux.
+
+    8. **``Optimisation multiobjectif :``**
+        L'optimisation multiobjectif cherche à maximiser ou minimiser plusieurs objectifs simultanément, souvent contradictoires. Elle est utilisée dans la prise de décision où plusieurs critères doivent être pris en compte, comme dans la conception de systèmes complexes ou la planification urbaine.
+
+
+- **lien:**
+    - [lien](08_optimisation)
