@@ -18,7 +18,7 @@
 <body>
 
 <div class="scrollable-image">
-    <img src="roadmap/math.png" alt="Image Grande">
+    <img src="https://github.com/mohameml/images/blob/main/roadmap/math.png" alt="Image Grande">
 </div>
 
 </body>
