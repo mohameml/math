@@ -18,7 +18,7 @@
 <body>
 
 <div class="scrollable-image">
-    <img src="chemin/vers/votre/image.jpg" alt="Image Grande">
+    <img src="roadmap/math.png" alt="Image Grande">
 </div>
 
 </body>
